@@ -1,3 +1,3 @@
 # RegisterUser
 
-### Simple user registration
+### Work proposed at the college for simple user registration
